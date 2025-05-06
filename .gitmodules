@@ -1,0 +1,3 @@
+[submodule "zinda"]
+	path = zinda
+	url = https://github.com/a7me63azzab/ZindaSDK.git
